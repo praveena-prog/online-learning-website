@@ -28,7 +28,5 @@ We believe in interactive learning. After watching each video lesson, users can 
 
 OUTPUT :
 
-OUTPUT:
-
 ![Image](https://github.com/user-attachments/assets/41817d14-d94f-47fd-8bee-9a3d0d8e928d)
 
